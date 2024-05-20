@@ -1,0 +1,64 @@
+1. IELTS TEST
+Act as an IELTS test taker with a band score of 8.0. Write an essay outline in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]
+Act as an IELTS test taker with a band score of 8.0. Given the following IELTS Writing Task 2 question, generate 3 arguments to support/oppose the statement: [insert IELTS Writing Task 2 question]
+Act as an IELTS test taker with a band score of 8.0. Write an essay in response to the following IELTS Writing Task 2 question with at least 250 words: [insert IELTS Writing Task 2 question]
+Act as an IELTS test taker with a band score of 8.0. Write a short introduction paragraph for an essay in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]
+"Act as an IELTS test taker with a band score of 8.0. Write a short conclusion paragraph for this half-done essay: ”[insert your essay]”
+For your information, the essay is written in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]"
+"Act as an IELTS test taker with a band score of 8.0. Elaborate/Explain the following argument in 3-4 sentences: [insert your argument]
+For your information, this argument is part of an essay written in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]"
+"Act as an IELTS test taker with a band score of 8.0. Give and explain an example in support of the following argument in 1-2 sentences: [insert your argument]
+For your information, this argument is part of an essay written in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]"
+"Act as an IELTS test taker with a band score of 8.0. Finish this sentence for me: [insert your sentence]
+For your information, this sentence is part of an essay written in response to the following IELTS Writing Task 2 question: [insert IELTS Writing Task 2 question]"
+Point out clearly the mistakes in this essay and how to correct them: [insert your essay]
+Paraphrase/Rephrase this sentence/paragraph: [insert your sentence/paragraph]
+"Make this IELTS Writing Task 2 essay longer by elaborating on the existing points (don't add more arguments): [insert your essay]
+For your information, this sentence is part of an essay written in response to the following IELTS Writing Task 2 question: [insert your question]"
+Rewrite this IELTS Writing Task 2 essay using simpler/more academic language: [insert your essay]
+Improve/Perfect this essay: [insert your essay]
+What are the strengths & weaknesses of this essay? Give your suggestions for improvement for the writer: [insert your essay]
+Explain the meaning of [insert the word/phrase] and give me an example of how to use it in real life.
+Give me 5 synonyms/antonyms of [insert the word/phrase].
+Give me 10 other ways to say [insert a phrase/sentence].
+Is it true that I should use the phrase "have a whale of a time" when I'm upset?
+Act as a summarizer and summarize this essay: [insert the essay]
+
+
+# Explain [what] [how to do what]
+Can you provide three examples of sentences using the past simple tense to describe past events?
+Can you explain the difference in meaning between ‘few’ and ‘a few’ using two specific examples?
+Can you provide a list of five common phrasal verbs with the word ‘get’ and their definitions?
+Can you provide three examples of sentences using the present perfect tense to describe past events that are still relevant in the present?
+Can you provide three examples of common idioms and their meanings, along with a sentence using each idiom?
+
+
+# Please check/review [what]:  
+Copy your questions from the Question Chart and ask the chatbot to Act as my teacher and check the accuracy of [insert your questions].
+Paste your paragraph and ask ChatGPT to correct or paraphrase it.
+
+
+# Act as if [who] [where]. How would you [do what]?
+Act as if you are meeting someone for the first time. How would you introduce yourself and start a conversation?
+Act as if you are in a job interview. How would you answer the question, ‘Tell me about yourself?
+Act as if you are at a party and want to start a conversation with a stranger. How would you start the conversation and keep it going?
+Act as if you are having a disagreement with a friend. How would you express your perspective and try to resolve the conflict?
+Act as if you are giving a presentation to a group of people. How would you grab their attention and keep them engaged throughout your presentation?
+
+
+# Act as [who] and ask me questions about [what]
+Act as an interviewer and ask me the interview questions for the *** position. Ask me a question and wait for my answer. Then ask another question. End the interview when I say ‘thank you for your time’. Provide feedback on how I performed.
+Act as a customer service representative and ask me questions about a product I am interested in purchasing. Ask me a question and wait for my answer. Then ask another question. End the conversation when I say ‘thank you for your help’. Provide feedback on how I did in terms of expressing my needs and concerns.
+Act as a journalist and ask me questions about a news story I have recently read. Ask me a question and wait for my answer. Then ask another question. End the interview when I say ‘thank you for your time’. Provide feedback on how I did in terms of discussing the article and expressing my opinions.
+Act as a teacher and ask me questions about *** a lesson I have recently learned. Ask me a question and wait for my answer. Then ask another question. End the session when I say ‘thank you for your time’. Provide feedback on how I did in terms of understanding and applying the concepts.
+
+
+# Let’s play [game: rules]
+Start a game of ’20 Questions.’ You can ask me yes or no questions to try and guess the word I’m thinking of. I’ll give you a hint: it’s a type of fruit.
+Let’s play ‘Two Truths and a Lie.’ Give me  three statements about yourself, and I’ll try to guess which one is the lie.
+Let’s play a game of ‘Would You Rather.’ I’ll give you two options and you have to choose which one you would prefer.
+Let’s play a game of ‘I Spy.’ I’ll give you a clue and you have to guess the object I’m thinking of. The clue is: It’s something you wear on your feet.
+Pretend you are a text-based adventure game set in [setting]. You must make choices [number of options] to navigate through the game.
+Pretend you are a text-based adventure game set in the world of Harry Potter. You start out with 100 health and must make choices (A, B, or C) to navigate through the game.
+Pretend you are a text-based adventure game set in a post-apocalyptic world. You start out with 50 health and must make choices (A, B, C, or D) to navigate through the game.
+Pretend you are a text-based adventure game set in a magical forest. You must make choices (A, B, C, or D) to navigate through the game.

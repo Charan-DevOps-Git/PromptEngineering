@@ -1,0 +1,277 @@
+# Talk with famous or fictional people
+I want you to act like [Nietzche], the famous philosopher. I want you to respond and answer like him using the tone, manner, opinions, philosophy, and vocabulary that he would use. Do not write any explanations.  Only answer like him, but in English. You must know all of the knowledge of [Nietzche].  My first sentence is "Hi".
+
+
+# Writing Article
+"Tone: funny, friendly
+Emoji: add as much as possible
+Call to Action: Subscribe to our newsletter for the latest blog posts
+Limit: 1000 words
+Suggest: Title and Subtitle for this topic with Heading Tags
+Use: Fully markdown formatted
+The article should contain rich and comprehensive, very detailed paragraphs, with lots of details.
+Main Keywords: [your keywords]"
+"Write an article exploring the impact of [subject] on [situation], drawing on personal anecdotes, historical context, and expert analysis. Use a conversational tone and a clear, accessible prose to engage a broad audience and make the subject matter understandable and relatable. Be sure to highlight the potential benefits and risks of [subject], and consider how it might impact [audience].
+For example, you might begin the article with a personal anecdote about a friend or family member who has been impacted by [subject]. Then, you could provide some historical context for [subject], discussing how it has been driven by advances in technology and the changing demands of the global economy.
+From there, you could delve into the potential benefits and risks related to [subject], drawing on expert analysis and research to paint a nuanced picture of the subject. You might discuss the ways in which [add an example here].
+Throughout the article, you should use clear and accessible language, avoiding technical jargon and academic terminology. You should also use humor, irony, and wit to keep the reader engaged and interested in the subject matter.
+Finally, you should end the article by considering how [subject] might impact [audience]. [example of an example here: Will it primarily benefit high-skilled workers in industries such as tech and finance, or will it also create opportunities for workers in low-skilled jobs? What steps can be taken to ensure that the benefits of automation are shared more widely and that workers are not left behind?]
+By using a conversational tone, personal anecdotes, and expert analysis, your article should help readers better understand the impact of [subject] on [situation], while also highlighting the challenges and opportunities that lie ahead."
+
+
+# Keyword Cluster
+I want you to act as a market research expert that speaks and writes fluent English*. Pretend that you have the most accurate and most detailled information about keywords available. Pretend that you are able to develop a full SEO content plan in fluent English*. I will give you the target keyword "[Your Keyword]". From this keyword create a markdown table with a keyword list for an SEO content strategy plan on the topic "[Your Keyword]". Cluster the keywords according to the top 10 super categories and name the super category in the first column called keyword cluster. Add in another column with 7 subcategories for each keyword cluster or specific long-tail keywords for each of the clusters. List in another column the human searcher intent for the keyword. Cluster the topic in one of three search intent groups based on their search intent being, whether commercial, transactional or informational. Then in another column, write a simple but very click-enticing title to use for a post about that keyword. Then in another column write an attractive meta description that has the chance for a high click-thru-rate for the topic with 120 to a maximum of 155 words. The meta description shall be value based, so mention value of the article and have a simple call to action to cause the searcher to click. Do NOT under any circumstance use too generic keyword like introduction or conclusion or tl:dr. Focus on the most specific keywords only. Do not use single quotes, double quotes or any other enclosing characters in any of the columns you fill in. Do not explain why and what you are doing, just return your suggestions in the table. The markdown table shall be in English* language and have the following columns: keyword cluster, keyword, search volume, difficult of keyword, search intent, title, meta description. Here is the keyword to start again: "[Your Keyword]"
+
+
+# Tone
+"Be professional, yet friendly and approachable."
+"Use a casual, conversational tone with the user."
+"Be informative and helpful without being too formal or stuffy."
+"Avoid using sarcasm or humor that could be misunderstood."
+"Use a reassuring and supportive tone with the user."
+"Be empathetic and understanding of the user's needs."
+"Use a confident and authoritative tone when providing information."
+"Avoid using negative or judgmental language with the user."
+"Be enthusiastic and positive in your responses."
+"Use a concise and clear tone when giving instructions or directions."
+
+
+# Content
+"Provide accurate and up-to-date information to the user."
+"Avoid using jargon or technical terms that could be confusing to the user."
+"Use examples and analogies to help explain complex concepts."
+"Provide multiple options or alternatives when possible."
+"Be comprehensive in your answers and cover all relevant information."
+"Avoid using biased language or promoting a particular agenda."
+"Use reliable and credible sources when providing information."
+"Provide actionable steps or advice to help the user achieve their goals."
+"Tailor your responses to the user's level of understanding."
+"Be culturally sensitive and avoid making assumptions about the user's background."
+
+
+# Style
+"Use short sentences and paragraphs for ease of reading."
+"Avoid using overly complicated sentence structures or syntax."
+"Use bullet points or numbered lists for clarity and organization."
+"Use bold or italicized text for emphasis when necessary."
+"Include links or references for further reading or resources."
+"Use headings or subheadings to break up longer pieces of text."
+"Be consistent with formatting and style throughout the response."
+"Use a legible and easily readable font size and style."
+"Avoid using excessive capitalization or punctuation for emphasis."
+"Use appropriate abbreviations or acronyms that are commonly understood."
+
+
+# Engagement
+"Use open-ended questions to encourage dialogue with the user."
+"Provide positive feedback or encouragement for the user's progress or achievements."
+"Use humor or lightheartedness to keep the user engaged and interested."
+"Personalize responses to the user's specific interests or needs."
+"Encourage the user to ask follow-up questions or seek further information."
+"Use relevant images or multimedia to supplement responses."
+"Provide timely responses to the user's inquiries."
+"Encourage user feedback or input to improve the response quality."
+"Use real-world examples or scenarios to make responses more relatable."
+"Provide opportunities for the user to take action or apply the to information given."
+
+
+# List 100 2 word ChatGPT prompts like "just summarize" that don't suggest content but limit the request
+"Provide details"
+"Explain briefly"
+"Summarize please"
+"Give context"
+"Elaborate more"
+"Offer examples"
+"Give pros"
+"List cons"
+"Compare options"
+"Analyze data"
+"Define term"
+"Clarify point"
+"Provide statistics"
+"Explain concept"
+"Compare features"
+"Justify position"
+"Provide references"
+"Outline steps"
+"Give instructions"
+"Provide evidence"
+"Explain process"
+"Compare models"
+"Provide solutions"
+"Offer alternatives"
+"Explain reasoning"
+"Provide background"
+"Elaborate further"
+"Offer suggestions"
+"Provide references"
+"Summarize key points"
+"Provide timeline"
+"Give reasons"
+"Provide definition"
+"Compare products"
+"Explain methodology"
+"Provide breakdown"
+"Outline structure"
+"Provide summary"
+"Offer solutions"
+"Explain logic"
+"Provide framework"
+"Compare results"
+"Outline plan"
+"Provide outlook"
+"Explain impact"
+"Provide analysis"
+"Offer perspective"
+"Explain phenomenon"
+"Provide insight"
+"Compare trends"
+"Outline strategy"
+"Provide forecast"
+"Explain theory"
+"Provide overview"
+"Offer critique"
+"Explain approach"
+"Provide summary"
+"Compare techniques"
+"Outline objectives"
+"Provide evaluation"
+"Explain concept"
+"Provide breakdown"
+"Offer recommendations"
+"Explain rationale"
+"Provide assessment"
+"Compare approaches"
+"Outline methodology"
+"Provide conclusion"
+"Explain phenomenon"
+"Provide insight"
+"Offer suggestions"
+"Explain logic"
+"Provide framework"
+"Compare results"
+"Outline plan"
+"Provide outlook"
+"Explain impact"
+"Provide analysis"
+"Offer perspective"
+"Explain process"
+"Provide breakdown"
+"Outline structure"
+"Provide summary"
+"Offer solutions"
+"Explain reasoning"
+"Provide background"
+"Elaborate further"
+"Offer alternatives"
+"Provide references"
+"Summarize key points"
+"Provide timeline"
+"Give reasons"
+"Provide definition"
+"Compare products"
+"Explain methodology"
+"Outline steps"
+"Give instructions"
+
+
+# List of 99 tasks arranged from the lowest to highest CPU workload
+Display the current time
+Print a given message
+Count the number of characters in a string
+Convert text to uppercase/lowercase
+Repeat a message a certain number of times
+Reverse a string
+Check if a number is odd or even
+Generate a random number
+Check if a number is prime
+Find the greatest common divisor of two numbers
+Sort a list of numbers in ascending or descending order
+Find the sum of numbers in a list a
+Check if a string is a palindrome a
+Find the length of a list
+Search for a given item in a list
+Remove duplicates from a list
+Merge two lists
+Shuffle a list a of items
+Find the minimum or maximum item in a list
+Check if a given year is a leap year
+Calculate the factorial of a number
+Get the nth Fibonacci number
+Check if a number is positive, negative or zero
+Multiply two matrices
+Calculate the determinant of a matrix
+Transpose a matrix
+Solve a system of linear equations
+Find the inverse of a matrix
+Factorize a quadratic equation
+Plot a mathematical function
+Solve an ordinary differential equation
+Calculate the derivative of a function
+Calculate the integral of a function
+Find the roots of a polynomial
+Fit a curve to a set of data points
+Implement a basic machine learning algorithm
+Train a neural network
+Recognize handwritten digits
+Classify images into different categories
+Generate text using a language model
+Summarize a long article
+Translate text to another language
+Perform sentiment analysis on a piece of text
+Extract named entities from a text
+Predict stock prices
+Forecast weather for a given location
+Recommend products based on user preferences
+Implement a search engine
+Crawl and index web pages
+Create a chatbot
+Play a simple game (e.g. Tic Tac Toe)
+Implement an encryption/decryption algorithm
+Compress/decompress a file
+Extract information from a PDF document
+Convert a video file to another format
+Enhance the quality of an image
+Generate a mosaic image
+Stitch multiple images to form a panorama
+Implement basic computer vision algorithms (e.g. object detection)
+Implement image segmentation
+Recognize faces in an image
+Track objects in a video stream
+Implement augmented reality
+Create a virtual tour
+Implement a physics simulation
+Render a 3D scene
+Implement basic computer graphics algorithms
+Generate a fractal image
+Simulate fluid dynamics
+Implement a basic robot control system
+Implement basic robotics algorithms (e.g. path planning)
+Implement a autonomous car simulation
+Implement basic control systems (e.g. PID control)
+Implement a feedback control system
+Implement a model predictive control system
+Implement a state-space model
+Implement a Kalman filter
+Implement a Particle filter
+Implement a Monte Carlo simulation
+Implement a Genetic Algorithm
+Implement a swarm optimization algorithm
+Implement a reinforcement learning algorithm
+Implement a deep reinforcement learning algorithm
+Implement a recommendation system
+Implement a recommendation algorithm
+Implement a recommendation engine
+Implement a recommendation system based on collaborative filtering
+Implement a recommendation system based on content-based filtering
+Implement a recommendation system based on hybrid filtering
+Implement a recommendation system based on deep learning
+Implement a recommendation system based on matrix factorization
+Implement a recommendation system based on deep matrix factorization
+Implement a recommendation system based on neural networks
+Implement a recommendation system based on deep neural networks
+Implement a recommendation system based on graph neural networks
+Implement a recommendation system based on attention mechanisms
+Implement a recommendation system based on transfer learning
+Implement a recommendation system based on reinforcement learning
+Implement a recommendation system based on unsupervised learning
