@@ -11,6 +11,5 @@ The prompts are categorized by topic and designed to elicit specific tones from 
 # Predefined PPT Templates
 In addition to prompts, given templates are structured to integrate seamlessly with AI-generated content, making it easier for you to create professional and visually appealing presentations. Each template is customizable and can be adapted to various themes and topics.
 
-
-- Thank you for your interest in the Prompt Engineering Repository. Hope these resources will inspire and assist you in your AI projects.
- # Happy Prompting!
+# Happy Prompting!
+Thank you for your interest in the Prompt Engineering Repository. Hope these resources will inspire and assist you in your AI projects.
